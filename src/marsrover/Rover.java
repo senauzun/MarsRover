@@ -1,6 +1,4 @@
-package marsrover;//
-
-import java.lang.ref.PhantomReference;
+package marsrover;
 
 class Rover {
 
