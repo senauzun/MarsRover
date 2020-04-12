@@ -38,6 +38,7 @@ public class Calculate {
         char cardinalPointChar = dir.charAt(0);
 
         // take many commands for calculate different position and directions
+        //3,3,'E' ---> RMMLMM --> 5,1,'E'
         char[] command = commands1.toCharArray();
 
         CardinalPoint cardinalPoint = new CardinalPoint(cardinalPointChar);
