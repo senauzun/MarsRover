@@ -1,4 +1,4 @@
-package marsrover;//
+package marsrover;
 
 
 public class Coordinates {
